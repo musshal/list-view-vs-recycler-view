@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">List Developer</string>
+    <string name="name_heroes">Nama Developer</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Musthafa</item>
+        <item>Kamal</item>
+        <item>Faishal</item>
+        <item>Faka</item>
+        <item>Musshal</item>
+        <item>Malfai</item>
+        <item>Musthafa Kamal</item>
+        <item>Musthafa Faishal</item>
+        <item>Kamal Faishal</item>
+        <item>Musthafa Kamal Faishal</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
+            quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis
+            harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident
+            similique accusantium nemo autem.</item>
+        <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
+            quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis
+            harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident
+            similique accusantium nemo autem.</item>
+        <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
+            quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis
+            harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident
+            similique accusantium nemo autem.</item>
+        <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
+            quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis
+            harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident
+            similique accusantium nemo autem.</item>
+        <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
+            quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis
+            harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident
+            similique accusantium nemo autem.</item>
+        <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
+            quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis
+            harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident
+            similique accusantium nemo autem.</item>
+        <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
+            quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis
+            harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident
+            similique accusantium nemo autem.</item>
+        <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
+            quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis
+            harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident
+            similique accusantium nemo autem.</item>
+        <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
+            quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis
+            harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident
+            similique accusantium nemo autem.</item>
+        <item>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae
+            quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis
+            harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident
+            similique accusantium nemo autem.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/images</item>
+        <item>@drawable/images</item>
+        <item>@drawable/images</item>
+        <item>@drawable/images</item>
+        <item>@drawable/images</item>
+        <item>@drawable/images</item>
+        <item>@drawable/images</item>
+        <item>@drawable/images</item>
+        <item>@drawable/images</item>
+        <item>@drawable/images</item>
+    </string-array>
+</resources>
